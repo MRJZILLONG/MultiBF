@@ -16,15 +16,14 @@ use threads::shared;
 use WWW::Mechanize;
 use Term::ANSIColor qw(:constants);
 
-system("clear");
 
 sub banner {
     print '
     '.BRIGHT_GREEN.'[!]'.RESET.''.BRIGHT_YELLOW.' Multi Brute Force Attack '.RESET.''.BOLD RED.'( Recoded )'.RESET.'
     '.BRIGHT_GREEN.' |'.RESET.'
-    '.BRIGHT_GREEN.' |---> '.RESET.''.BOLD BLUE.'By :'.RESET.''.BOLD RED.' N1ght_'.RESET.'
+    '.BRIGHT_GREEN.' |---> '.RESET.''.BOLD BLUE.'By :'.RESET.''.BOLD RED.' N1ght.Hax0r'.RESET.'
     '.BRIGHT_GREEN.' |---> '.RESET.''.BOLD BLUE.'Contact :'.RESET.''.BOLD RED.' N1ghtpe0ple@protonmail.com'.RESET.'
-    '.BRIGHT_GREEN.' |---> '.RESET.''.BOLD BLUE.'Visit :'.RESET.''.BOLD RED.' https://N1ghtsystem.wordpress.com'.RESET.'
+    '.BRIGHT_GREEN.' |---> '.RESET.''.BOLD BLUE.'Facebook :'.RESET.''.BOLD RED.' Putra AR (id = N1ghtpe0ple)'.RESET.'
     '.BRIGHT_GREEN.' |---> '.RESET.''.BOLD BLUE.'Github :'.RESET.''.BOLD RED.' https://github.com/N1ght420'.RESET.'
     '.BRIGHT_GREEN.' |______________________________________________'.RESET.'
 
