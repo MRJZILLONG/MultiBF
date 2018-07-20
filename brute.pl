@@ -1,6 +1,6 @@
 #!/usr/bin/env perl
 
-# Multi Brute Force Attack recode by N1ght_
+# Multi Brute Force Attack recode by N1ght.Hax0r
 
 
 use strict;
